@@ -1,3 +1,9 @@
+:root{
+    --background-img:--#596D48;
+    --input-border: #E5E7EB;
+    --logo-font:  "Norse Bold"; 
+}
+
 *,
 body {
     margin: 0;
