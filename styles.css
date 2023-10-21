@@ -10,3 +10,7 @@ body {
     padding: 0;
     line-height: 1.5;
 }
+ @font-face {
+    font-family: Nose-Bold, sans-serif;
+    src: url(./fonts/Norse-Bold.otf);
+ }
