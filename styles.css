@@ -42,19 +42,34 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 65vw;
 }
 
 .first {
-    background-color: lightgreen;
+    background-color: #fafafa;
     height: 33vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 5%;
+    margin-bottom: 5%;
 }
 
 .second {
-    background-color: lightcoral;
+    background-color: #fafafa;
     height: 33vh;
 }
 
 .third {
-    background-color: lightslategray;
+    background-color: #fafafa;
     height: 33vh;
+}
+
+.form-container {
+    align-items: center;
+}
+
+.form-contents {
+    display: flex;
+    flex-direction: row;
 }
